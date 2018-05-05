@@ -19,7 +19,7 @@ Misc:
 Let me know of any more errors!
 Especially if you find any black on dark text, it's hard for me to find it all!
 Either through Github: https://github.com/CptDinosaur/Pressure2DarkPatch/issues 
-or through Steam.
+or through the Steam discussion https://steamcommunity.com/groups/pressureskin/discussions/0/1694920442954334937/.
 
 # Installation
 - Install Pressure² from http://www.pressureforsteam.com/, following the instructions at the bottom of the page
