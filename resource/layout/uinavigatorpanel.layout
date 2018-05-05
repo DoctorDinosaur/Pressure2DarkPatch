@@ -441,7 +441,7 @@
 			control=PageLoadThrobber
 			region=subnav
 			align=right
-			height=max
+			height=0
 		}
 		
 		place {
@@ -462,7 +462,6 @@
 			width=max
 			height=max
 			spacing=0
-			end-right=PageLoadThrobber
 		}
 		
 		region {
