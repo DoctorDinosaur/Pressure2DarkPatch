@@ -27,3 +27,11 @@ I'll also try and keep an eye on the original Pressure issues page, https://gith
 - Download the latest patch at https://github.com/CptDinosaur/Pressure2DarkPatch/releases
 - Overwrite the files of Pressure² with the patched files
 - Restart Steam
+
+# Credits
+This is just a small patch. All credit should go to DirtDiglett for the original skin:
+https://steamcommunity.com/groups/pressureskin
+http://www.pressureforsteam.com/
+
+Feel free to donate to his patreon:
+https://www.patreon.com/dirtdiglett
