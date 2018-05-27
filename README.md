@@ -23,9 +23,9 @@ or through the Steam discussion https://steamcommunity.com/groups/pressureskin/d
 I'll also try and keep an eye on the original Pressure issues page, https://github.com/DirtDiglett/Pressure2/issues
 
 # Installation
-- Install Pressure² from http://www.pressureforsteam.com/, following the instructions at the bottom of the page
+- Install Pressure² Dark Version from http://www.pressureforsteam.com/, following the instructions at the bottom of the page
 - Download the latest patch at https://github.com/CptDinosaur/Pressure2DarkPatch/releases
-- Overwrite the files of Pressure² with the patched files
+- Overwrite the files of Pressure² Dark with the patched files
 - Restart Steam
 
 # Credits
