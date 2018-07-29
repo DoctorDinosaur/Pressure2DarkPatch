@@ -7,6 +7,7 @@ Settings Menu:
 - In-Home Streaming
 - Interface
 - Web Browser
+- Voice
 
 Misc:
 - Game Properties: Local Files
@@ -15,6 +16,8 @@ Misc:
 - Login Menu Layout
 - Login Menu Text Errors
 - Two-Factor Authentication Colors
+- Added Account Menu
+- Chat Beta Support
 
 Let me know of any more errors!
 Especially if you find any black on dark text, it's hard for me to find it all!
