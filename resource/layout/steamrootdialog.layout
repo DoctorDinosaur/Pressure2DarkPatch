@@ -148,7 +148,7 @@
 		
 			inbox_button:hover {
 				render_bg {
-					0="image(x1-24, y0+13, x1, y1, graphics/updatenone_notification.tga)"
+					0="image(x1-24, y0+13, x1, y1, graphics/icons/inbox/empty_hover/envelope)"
 				}
 			}
 			
@@ -158,13 +158,13 @@
 					-2="image(x0-3,y0+18,x0+16,y0+28, graphics/material/selectionbubbles/hover/white/bottomleft)"
 					-1="image(x0+16,y0-1,x0+35,y0+18, graphics/material/selectionbubbles/hover/white/topright)"
 					0="image(x0+16,y0+18,x0+35,y0+37, graphics/material/selectionbubbles/hover/white/bottomright)"
-					1="image(x1-24, y0+13, x1, y1, graphics/updatenone_notification.tga)"
+					1="image(x1-24, y0+13, x1, y1, graphics/icons/inbox/empty_hover/envelope)"
 				}
 			}
 			
 			inbox_button:disabled {
 				render_bg {
-					0="image(x1-24, y0+13, x1, y1, graphics/updatenone_notification.tga)"
+					0="image(x1-24, y0+13, x1, y1, graphics/icons/inbox/empty_disabled/envelope)"
 				}
 			}
 		
