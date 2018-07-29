@@ -142,7 +142,7 @@
 
 			render {}
 			render_bg {
-				0="image(x1-24, y0+13, x1, y1, graphics/updatenone_notification.tga)"
+				0="image(x1-24, y0+13, x1, y1, graphics/icons/inbox/empty/envelope)"
 			}
 		}
 		
