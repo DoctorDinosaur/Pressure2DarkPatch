@@ -1,5 +1,6 @@
 # Pressure2DarkPatch
-Unofficial Patches for the Pressure²: Dark Version Steam Skin
+Unofficial Patches for the Pressure²: Dark Version Steam Skin.
+Hopefully it won't be needed for much longer, DirtDiglett (The original creator) is in the process of reworking the whole skin
 
 # Fixes
 Settings Menu:
