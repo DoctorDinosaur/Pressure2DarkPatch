@@ -57,7 +57,7 @@
 		}
 
 		place {
-			control=DPIScalingCheck,AutoLaunchCheck,BigPictureModeCheck,DWriteCheck,H264HWAccelCheck
+			control=DPIScalingCheck,AutoLaunchCheck,BigPictureModeCheck,DWriteCheck,H264HWAccelCheck,GPUWebViewCheck
 			region=system
 			dir=down
 			y=28
@@ -67,7 +67,7 @@
 
 		place {
 			control=SetJumpListOptionsButton
-			start=H264HWAccelCheck
+			start=GPUWebViewCheck
 			start=BigPictureModeCheck [$LINUX]
 			dir=down
 			y=4
@@ -79,7 +79,7 @@
 		region {
 			name=steam
 			x=82
-			y=176
+			y=180
 			y=82 [$OSX]
 			width=max
 			height=114
