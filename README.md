@@ -1,4 +1,4 @@
-# Pressure2DarkPatch
+# *Obsolete* Pressure2DarkPatch
 Old Unofficial Patches for the Pressure²: Dark Version Steam Skin.
 
 This is now obsolete! Please switch back to the main branch of https://github.com/DirtDiglett/Pressure2/ which is now fully bug fixed!
